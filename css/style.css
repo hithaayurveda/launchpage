@@ -370,6 +370,10 @@ section {
     display: inline-block;
 }
 
+#landing-image {
+    max-width: 400px;
+}
+
 /* --------- 2.3 Buttons ---------- */
 
 .call-to-action {
