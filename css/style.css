@@ -372,8 +372,8 @@ section {
 
 #landing-image {
     max-width: 400px;
-    padding-left: 20px;
-    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* --------- 2.3 Buttons ---------- */
